@@ -79,7 +79,7 @@ I am currently developing my technical skills through coursework and hands-on pr
 
 ## 📫 Connect with me
 
-- 📄 [View my resume] (#)
+- 📄 [View my resume](file:///Users/stellamacbook/Downloads/Resume%20Stella%20Fruijtier.pdf)
 - 🔗 [Connect on LinkedIn](www.linkedin.com/in/stella-fruijtier-1856972a3)
 
 
