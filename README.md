@@ -80,7 +80,7 @@ I am currently developing my technical skills through coursework and hands-on pr
 ## 📫 Connect with me
 
 - 📄 [View my resume] (#)
-- 🔗 [Connect on linkedIn] (#)
+- 🔗 [Connect on linkedIn] (www.linkedin.com/in/stella-fruijtier-1856972a3)
 
 
 
