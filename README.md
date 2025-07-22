@@ -18,8 +18,11 @@ I am currently developing my technical skills through coursework and hands-on pr
 ## 🔭 Currently Exploring
 
 🧠 **AI & Machine Learning** techniques for real-world applications
+
 🔐 **Cybersecurity** foundations and best practices
+
 🎮 **Object-oriented programming** and **game-design principles**
+
 📈 Internship opportunities in **Cybersecurity** and **Data Analytics**
 
 
