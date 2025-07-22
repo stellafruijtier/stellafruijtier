@@ -21,6 +21,7 @@ I am currently developing my technical skills through coursework and hands-on pr
 🔐 **Cybersecurity** foundations and best practices
 🎮 **Object-oriented programming** and **game-design principles**
 📈 Internship opportunities in **Cybersecurity** and **Data Analytics**
+
 --
 
 ### 💻 Tools and Technologies
