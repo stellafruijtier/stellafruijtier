@@ -34,7 +34,7 @@ I am currently developing my technical skills through coursework and hands-on pr
 
 
 
-📚 Coursework at Rollins
+## 📚 Coursework at Rollins
 
 **Data structures and Algorithms**
 - Built and optimized common data structures
