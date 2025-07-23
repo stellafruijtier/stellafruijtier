@@ -4,7 +4,7 @@ I am a Computer Science major at **Rollins College**, with a minor in Data Analy
 
 I'm a player on the **varsity Rollins Women's Tennis Team** and also serve as the **VP of Campus and Community Engagement** on the team
 
-Originally from **Buchillon, Switzerland@@, I bring an international perspective to everything I do
+Originally from **Buchillon, Switzerland**, I bring an international perspective to everything I do
 
 
 
