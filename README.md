@@ -76,7 +76,7 @@ I am currently developing my technical skills through coursework and hands-on pr
 - **English:** Native
 - **French:** Native
 - **Italian:** Native
-- **German:** Working Proficiency
+- **German:** Proficient
 
 
 
